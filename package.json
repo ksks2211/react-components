@@ -10,6 +10,10 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksks2211/react-components.git"
+},
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
